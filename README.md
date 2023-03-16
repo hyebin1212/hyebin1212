@@ -1,9 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
 
-<!--
-**hyebin1212/hyebin1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Hi there 👋
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
